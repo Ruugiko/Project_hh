@@ -32,7 +32,7 @@
 
 ## 3. Описание данных
 
-В проекте используется база резюме, выгруженная с сайта поиска вакансий hh.ru.
+В проекте используется [база резюме](https://drive.usercontent.google.com/download?id=1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn&export=download&authuser=0&confirm=t&uuid=b9fbbb8a-aefc-4616-9b2b-115cc98c3ed8&at=APZUnTUH19gN9FKGgbxRAj7S3Wkx%3A1712526166719), выгруженная с сайта поиска вакансий hh.ru.
 
 Датасет содержит 44744 обезличенные записи по 12 признакам:
 
